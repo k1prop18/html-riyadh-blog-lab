@@ -78,9 +78,17 @@ a:hover {
     font-size: 2.5em;
   }
   h2 {
-    font-size: 1em;
+    font-size: 2em;
   }
   .wrapper {
     width: 95%;
+  }
+  h4 {
+    color: #fff;
+    font-family: 'Gabriela', serif;
+  }
+  h6 {
+    font-size: 1em;
+    font-family: 'Gabriela' , serif;
   }
 }
